@@ -1,2 +1,2 @@
 # tours-and-travel
-this is web basded application for helping people to plan their tours 
+this is web based application for helping people to plan their tours 
